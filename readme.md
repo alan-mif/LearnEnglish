@@ -1,8 +1,6 @@
-# *Lesson 1* 
+# *Lesson 1 Roots_part1*
 
 
-
-### 一、基础词根
 
 #### 1.mit,mis
 
