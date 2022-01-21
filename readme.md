@@ -78,9 +78,9 @@
 
 词根：
 
-​		cid = cis = *cut* 切 => *kill* 杀
+​		cid = cis =  *cut* 切 => *kill* 杀
 
- 		tail = *cut* 切
+​		 tail = *cut* 切
 
 后缀：
 
