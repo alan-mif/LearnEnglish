@@ -4,7 +4,7 @@
 
 前缀：
 
-​        ad = *to* 加强 
+​        ad = *to*;加强 
 
 ​        per = *fully* 充分地，完全地
 
@@ -122,12 +122,10 @@
 
 ​        **detail** n. 细节（向下切分得到细节）  v. 详细阐释（向下切分说明过程）
 
-​		**detailed** a. 详细的
+​        **detailed** a. 详细的
 
-​		**retail** v. 零售（产品利润再一次被切分）
+​        **retail** v. 零售（产品利润再一次被切分）
 
-​		**retailing** n. 零售行业
+​        **retailing** n. 零售行业
 
-​		**retailor** n. 零售商
-
- 
+​        **retailor** n. 零售商
